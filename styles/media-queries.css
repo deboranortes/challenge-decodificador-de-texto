@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1200px) {
+
+    body {
+        flex-direction: column;
+    }
+
+    .conteudo__principal {
+        flex-direction: column;
+        padding: 0 40px 0 40px;
+        gap: 0;
+    }
+
+    .conteudo__principal__secao {
+        padding: 11.11% 0 0 0;
+    }
+
+    .conteudo__principal__texto .texto {
+        width: 100%;
+    }
+
+    .conteudo__principal__caixa {
+        height: 170px;
+        width: auto;
+        max-width: none;
+        margin-top: 5rem;
+    }
+
+    .conteudo__principal__area-de-copia {
+        width: auto;
+        height: 170px;
+        overflow: scroll;
+        padding: 20px;
+        gap: 10px;
+    }
+
+    .conteudo__principal__caixa img {
+        display: none;
+    }
+
+    .texto-destino, .botao-copiar {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+
+    .conteudo__principal__botoes {
+        flex-direction: column;
+    }
+
+    .botao-criptografar,
+    .botao-descriptografar {
+        width: 100%;
+    }
+
+    .conteudo__principal__caixa {
+        height: 186px;
+        width: auto;
+        max-width: none;
+        padding: 20%;
+    }
+    
+}
