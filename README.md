@@ -57,7 +57,7 @@ Os elementos principais da página são:
 ## Links Úteis
 
 [![Alura](https://img.shields.io/badge/Alura-0076C1?style=for-the-badge&logo=alura&logoColor=white)](https://www.alura.com.br)
-[![ONE](https://img.shields.io/badge/ONE-FF9800?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/education/oracle-next-education/)
+[![ONE](https://img.shields.io/badge/ONE-FF9800?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/br/education/oracle-next-education/)
 
 ## Projeto
 
